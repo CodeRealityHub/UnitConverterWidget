@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.unitwidget.app-mergeDebugResources-57:/values-am/values-am.xml",
+            "map": [
+                {
+                    "source": "/Users/anuragroy/.gradle/caches/9.6.0/transforms/e1230147cca542514d4c2798b1c27957/transformed/ui-release/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,188,265,357,453,535,613,696,778,856,934,1015,1085,1158,1231,1303,1383,1448",
+                        "endColumns": "82,76,91,95,81,77,82,81,77,77,80,69,72,72,71,79,64,115",
+                        "endOffsets": "183,260,352,448,530,608,691,773,851,929,1010,1080,1153,1226,1298,1378,1443,1559"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,17,18,19,20,21,22,23,24,25,26,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "792,875,952,1044,1140,1621,1699,1782,1864,1942,2020,2101,2171,2244,2317,2490,2570,2635",
+                        "endColumns": "82,76,91,95,81,77,82,81,77,77,80,69,72,72,71,79,64,115",
+                        "endOffsets": "870,947,1039,1135,1217,1694,1777,1859,1937,2015,2096,2166,2239,2312,2384,2565,2630,2746"
+                    }
+                },
+                {
+                    "source": "/Users/anuragroy/.gradle/caches/9.6.0/transforms/fa878627c27074b90ee4432ac9a17c8a/transformed/core-1.15.0/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,248,345,444,540,642,742",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "143,243,340,439,535,637,737,838"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,27",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,198,298,395,494,590,692,2389",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "193,293,390,489,585,687,787,2485"
+                    }
+                },
+                {
+                    "source": "/Users/anuragroy/.gradle/caches/9.6.0/transforms/063934813fa9a491246ea2179060a3ac/transformed/glance-appwidget-1.1.1/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,235,338",
+                        "endColumns": "179,102,115",
+                        "endOffsets": "230,333,449"
+                    },
+                    "to": {
+                        "startLines": "14,15,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1222,1402,1505",
+                        "endColumns": "179,102,115",
+                        "endOffsets": "1397,1500,1616"
+                    }
+                },
+                {
+                    "source": "/Users/anuragroy/.gradle/caches/9.6.0/transforms/f9b034d71e2bda3ba8919fc07642ef69/transformed/foundation-release/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,142",
+                        "endColumns": "86,85",
+                        "endOffsets": "137,223"
+                    },
+                    "to": {
+                        "startLines": "31,32",
+                        "startColumns": "4,4",
+                        "startOffsets": "2751,2838",
+                        "endColumns": "86,85",
+                        "endOffsets": "2833,2919"
+                    }
+                }
+            ]
+        }
+    ]
+}

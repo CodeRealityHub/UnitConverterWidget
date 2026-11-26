@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/drawable_ic_star.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/drawable_ic_palette.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/drawable/ic_palette.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_unit_converter_widget_info.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/unit_converter_widget_info.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/drawable_ic_swap.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/drawable/ic_swap.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_ic_palette.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/ic_palette.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_ic_theme.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/ic_theme.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_ic_home.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/ic_home.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/drawable_ic_unfold.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/drawable/ic_unfold.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/drawable_ic_hint.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/drawable/ic_hint.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/drawable_ic_home.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_ic_swap.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/ic_swap.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_ic_backspace.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/ic_backspace.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_ic_star.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/ic_star.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/drawable_ic_backspace.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/drawable/ic_backspace.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_ic_unfold.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/ic_unfold.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/drawable_ic_theme.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/drawable/ic_theme.xml"
+    },
+    {
+        "merged": "com.example.unitwidget.app-debug-59:/xml_ic_hint.xml.flat",
+        "source": "com.example.unitwidget.app-main-61:/xml/ic_hint.xml"
+    }
+]

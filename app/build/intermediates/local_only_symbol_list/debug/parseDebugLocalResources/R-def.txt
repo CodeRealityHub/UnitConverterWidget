@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_backspace
+drawable ic_hint
+drawable ic_home
+drawable ic_palette
+drawable ic_star
+drawable ic_swap
+drawable ic_theme
+drawable ic_unfold
+string app_name
+string widget_description
+xml ic_backspace
+xml ic_hint
+xml ic_home
+xml ic_palette
+xml ic_star
+xml ic_swap
+xml ic_theme
+xml ic_unfold
+xml unit_converter_widget_info

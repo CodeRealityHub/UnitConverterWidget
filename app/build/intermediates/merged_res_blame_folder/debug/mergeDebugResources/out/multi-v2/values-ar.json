@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.unitwidget.app-mergeDebugResources-57:/values-ar/values-ar.xml",
+            "map": [
+                {
+                    "source": "/Users/anuragroy/.gradle/caches/9.6.0/transforms/f9b034d71e2bda3ba8919fc07642ef69/transformed/foundation-release/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,139",
+                        "endColumns": "83,85",
+                        "endOffsets": "134,220"
+                    },
+                    "to": {
+                        "startLines": "31,32",
+                        "startColumns": "4,4",
+                        "startOffsets": "2894,2978",
+                        "endColumns": "83,85",
+                        "endOffsets": "2973,3059"
+                    }
+                },
+                {
+                    "source": "/Users/anuragroy/.gradle/caches/9.6.0/transforms/fa878627c27074b90ee4432ac9a17c8a/transformed/core-1.15.0/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,250,345,448,551,653,767",
+                        "endColumns": "92,101,94,102,102,101,113,100",
+                        "endOffsets": "143,245,340,443,546,648,762,863"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,27",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,198,300,395,498,601,703,2522",
+                        "endColumns": "92,101,94,102,102,101,113,100",
+                        "endOffsets": "193,295,390,493,596,698,812,2618"
+                    }
+                },
+                {
+                    "source": "/Users/anuragroy/.gradle/caches/9.6.0/transforms/063934813fa9a491246ea2179060a3ac/transformed/glance-appwidget-1.1.1/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,262,368",
+                        "endColumns": "206,105,123",
+                        "endOffsets": "257,363,487"
+                    },
+                    "to": {
+                        "startLines": "14,15,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1267,1474,1580",
+                        "endColumns": "206,105,123",
+                        "endOffsets": "1469,1575,1699"
+                    }
+                },
+                {
+                    "source": "/Users/anuragroy/.gradle/caches/9.6.0/transforms/e1230147cca542514d4c2798b1c27957/transformed/ui-release/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,194,277,372,470,555,636,742,826,907,988,1071,1141,1220,1299,1373,1449,1523",
+                        "endColumns": "88,82,94,97,84,80,105,83,80,80,82,69,78,78,73,75,73,120",
+                        "endOffsets": "189,272,367,465,550,631,737,821,902,983,1066,1136,1215,1294,1368,1444,1518,1639"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,17,18,19,20,21,22,23,24,25,26,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "817,906,989,1084,1182,1704,1785,1891,1975,2056,2137,2220,2290,2369,2448,2623,2699,2773",
+                        "endColumns": "88,82,94,97,84,80,105,83,80,80,82,69,78,78,73,75,73,120",
+                        "endOffsets": "901,984,1079,1177,1262,1780,1886,1970,2051,2132,2215,2285,2364,2443,2517,2694,2768,2889"
+                    }
+                }
+            ]
+        }
+    ]
+}
